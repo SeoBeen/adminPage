@@ -1,0 +1,4 @@
+com/example/study/AdminPageApplicationTests.java
+ com.example.study.AdminPageApplicationTests
+com/example/study/repository/UserRepositoryTest.java
+ com.example.study.repository.UserRepositoryTest
